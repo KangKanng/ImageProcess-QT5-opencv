@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/chuizhi.png</file>
+        <file>images/shuiping.png</file>
+        <file>images/turn-left.png</file>
+        <file>images/turn-right.png</file>
+        <file>images/bg.jpg</file>
+        <file>images/picture.png</file>
+        <file>xml/haarcascade_eye.xml</file>
+        <file>xml/haarcascade_eye_tree_eyeglasses.xml</file>
+        <file>xml/haarcascade_frontalface_alt.xml</file>
+        <file>images/confirm.png</file>
+        <file>inputimg/edge.png</file>
+    </qresource>
+</RCC>
